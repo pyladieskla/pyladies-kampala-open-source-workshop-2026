@@ -1,89 +1,170 @@
 # PyLadies Kampala Open Source Workshop 2026
 
-Welcome to the curriculum and learning materials for the PyLadies Kampala Open Source Workshop 2026.
+## About the Workshop
 
-This is a one-day, hands-on workshop designed to introduce participants to Python programming, web development, Git, GitHub, and open-source contribution.
+The PyLadies Kampala Open Source Workshop is a full-day, hands-on workshop designed to introduce participants to Python programming, web development, Git, GitHub, and open-source contribution.
 
-## Workshop Goals
+The workshop is aimed primarily at beginners and people who are taking their first steps into technology. Participants will learn through practical exercises, small projects, and guidance from experienced mentors.
 
-By the end of the workshop, participants should be able to:
+The goal is not only to introduce participants to programming, but also to give them the confidence and practical skills to continue learning and participate in the wider open-source community.
 
-- Understand the basics of Python programming.
-- Write and run simple Python programs.
-- Work with variables, data types, conditions, loops, and functions.
-- Understand the basics of web development.
-- Use Git and GitHub for basic version control.
-- Understand how open-source projects work.
-- Find beginner-friendly open-source projects.
-- Make a simple contribution to an open-source project.
+---
 
-## Workshop Format
+## Workshop Details
 
-The workshop will be delivered as a full-day, hands-on learning experience.
+**Date:** 28 November 2026
 
-**Date:** 28 November 2026  
-**Time:** 8:00 AM – 5:00 PM  
+**Time:** 8:00 AM – 5:00 PM
+
 **Location:** Kampala, Uganda
 
-Participants will learn through a combination of short presentations, demonstrations, practical exercises, and mentor-supported activities.
+**Organiser:** PyLadies Kampala
+
+---
 
 ## Curriculum
 
-### 1. Python Fundamentals
+The curriculum is divided into four practical areas.
 
-Participants will be introduced to the fundamentals of Python programming, including:
+### 1. Python
 
+Participants begin with Python programming fundamentals and gradually move into building small applications.
+
+Topics include:
+
+- Python syntax
 - Variables and data types
-- Operators
-- Conditional statements
+- User input
+- Conditions
 - Loops
 - Functions
-- Basic problem solving
+- Lists and dictionaries
+- Working with files
+- Error handling
+- Building small Python applications
 
-Participants will complete practical exercises throughout the session.
+[View Python Exercises](python/exercises.md)
+
+---
 
 ### 2. Web Development
 
-Participants will explore the basics of building for the web and how Python can be used in web development.
+Participants are introduced to the basics of building websites using HTML and CSS.
 
-Topics will include:
+Topics include:
 
-- HTML basics
-- CSS basics
-- Introduction to web applications
-- Introduction to Python web development
+- HTML
+- CSS
+- Forms
+- Navigation
+- Responsive design
+- Building a personal portfolio
+- Introduction to using Python with web applications
+
+[View Web Development Exercises](web-development/exercises.md)
+
+---
 
 ### 3. Git and GitHub
 
-Participants will learn how developers use Git and GitHub to manage and collaborate on projects.
+Participants learn the basic tools and workflow developers use to manage and collaborate on code.
 
-Topics will include:
+Topics include:
 
-- Creating a Git repository
-- Making commits
-- Working with branches
-- Pushing code to GitHub
-- Working with an existing repository
+- Git repositories
+- Commits
+- Branches
+- GitHub repositories
+- Cloning repositories
+- Pull Requests
+- Code review
+- Collaboration
 
-### 4. Introduction to Open Source
+[View Git & GitHub Exercises](git-github/exercises.md)
 
-Participants will learn what open source is and how they can become contributors.
+---
 
-Topics will include:
+### 4. Open Source Contribution
 
-- Understanding open-source projects
-- Finding beginner-friendly projects
-- Reading project documentation
-- Understanding issues
-- Pull requests
-- Open-source communities
+The final section introduces participants to the process of making their first open-source contribution.
 
-### 5. Making a First Contribution
+Participants will learn how to:
 
-Participants will put their learning into practice by exploring an open-source repository and working through the basic contribution process with support from mentors.
+- Find open-source projects
+- Understand contribution guidelines
+- Find beginner-friendly issues
+- Fork repositories
+- Create branches
+- Make changes
+- Submit Pull Requests
+- Respond to maintainer feedback
 
-## Learning Materials
+[View Open Source Contribution Exercise](open-source/first-contribution.md)
 
-This repository contains the practical exercises and learning materials used during the workshop.
+---
 
-More materials will be added as the curriculum is finalized.
+## Workshop Schedule
+
+The workshop runs from 8:00 AM to 5:00 PM and combines instruction, practical exercises, project work, mentorship, and networking.
+
+[View the Full Workshop Schedule](schedule.md)
+
+---
+
+## Learning Approach
+
+This workshop follows a practical, hands-on approach.
+
+Rather than only listening to presentations, participants will spend most of the day writing code, completing exercises, building small projects, and working with mentors.
+
+Participants will have opportunities to ask questions, work with other learners, and receive support when they get stuck.
+
+---
+
+## Expected Learning Outcomes
+
+By the end of the workshop, participants should be able to:
+
+- Write basic Python programs.
+- Use common Python data structures.
+- Build simple Python applications.
+- Create basic webpages using HTML and CSS.
+- Create and style simple forms.
+- Use Git to track changes in their projects.
+- Create and work with GitHub repositories.
+- Use branches and Pull Requests.
+- Collaborate with other developers.
+- Understand the basic open-source contribution workflow.
+- Make a first contribution to an open-source project.
+
+---
+
+## Continuing After the Workshop
+
+The workshop is intended to be a starting point rather than a one-time learning experience.
+
+Participants will be encouraged to continue practising with the exercises in this repository, work on personal projects, participate in PyLadies Kampala activities, and explore opportunities to contribute to open-source projects.
+
+PyLadies Kampala will continue to provide community support, mentorship, learning opportunities, and information about relevant technology and open-source opportunities.
+
+---
+
+## Repository Structure
+
+```text
+pyladies-kampala-open-source-workshop-2026/
+│
+├── README.md
+├── schedule.md
+│
+├── python/
+│   └── exercises.md
+│
+├── web-development/
+│   └── exercises.md
+│
+├── git-github/
+│   └── exercises.md
+│
+└── open-source/
+    └── first-contribution.md
