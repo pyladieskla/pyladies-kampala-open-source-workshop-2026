@@ -1,6 +1,3 @@
-# pyladies-kampala-open-source-workshop-2026
-Curriculum and practical learning materials for the PyLadies Kampala Open Source Workshop 2026.
-
 # PyLadies Kampala Open Source Workshop 2026
 
 Welcome to the curriculum and learning materials for the PyLadies Kampala Open Source Workshop 2026.
